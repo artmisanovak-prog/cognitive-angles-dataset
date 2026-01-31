@@ -1,0 +1,56 @@
+{
+  "id": "001_mys",
+  "title": "O Myši a o tom, co se stane, když si jí NEvšimneš",
+  "author": "art.misa.novak",
+  "collection": "Cognitive Angles Fairy Tales",
+  "order": 1,
+  "has_illustration": true,
+  "illustration_path": "illustrations/001_mys.jpg",
+  
+  "text": {
+    "full": "...celý text...",
+    "cleaned": "...text bez formátování...",
+    "structured": {
+      "intro": "Křivá pohádka - Rovné svědectví...",
+      "main": "O Myši...",
+      "ending": "a konec úvodu. Ale začátek něčeho dalšího..."
+    }
+  },
+  
+  "cognitive_angles": {
+    "primary": "naive",
+    "secondary": ["linguistic", "introspective", "metaphorical"],
+    "vector": {
+      "naive": 0.40,
+      "linguistic": 0.35,
+      "introspective": 0.25,
+      "metaphorical": 0.20,
+      "philosophical": 0.15,
+      "literal": 0.05,
+      "absurd": 0.02,
+      "ironic": 0.01,
+      "surreal": 0.00,
+      "analogical": 0.03,
+      "associative": 0.10,
+      "grotesque": 0.00,
+      "socio_critical": 0.05,
+      "poetic": 0.08,
+      "communal": 0.02,
+      "capitalist_critical": 0.01,
+      "ontological": 0.10
+    }
+  },
+  
+  "metadata": {
+    "word_count": 387,
+    "sentence_count": 42,
+    "paragraph_count": 15,
+    "reading_level": "B2",
+    "themes": ["observation", "language", "meaning", "animals", "questions"]
+  },
+  
+  "intertextual_links": {
+    "references": ["čáp", "páv", "kocour", "zajíc", "slon", "lemur"],
+    "themes_connections": ["perception", "silence", "writing", "animals_as_metaphors"]
+  }
+}
