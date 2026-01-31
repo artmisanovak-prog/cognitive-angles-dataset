@@ -28,3 +28,10 @@ with open('data/fairy_tales/001_mys.json', 'r') as f:
     
 print(f"Title: {tale['title']}")
 print(f"Primary angle: {tale['cognitive_analysis']['primary_angles'][0]}")
+
+@article{novak2024cognitive,
+  title={Cognitive Angles Framework: A Multi-Perspective Dataset for Testing Theory of Mind in Large Language Models},
+  author={novak, art.misa},
+  journal={Submitted to Cognitive Science},
+  year={2024}
+}
